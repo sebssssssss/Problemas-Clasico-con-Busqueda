@@ -1,2 +1,2 @@
-# Problemas-Clasico-con-Busqueda
-El presente proyecto tiene como finalidad aplicar algoritmos de búsqueda (como búsqueda en anchura, profundidad, costo uniforme) e (como A*, búsqueda voraz) en la resolución de problemas de juguete con un nivel de complejidad intermedio.
+# Puzzle-8
+Un tablero de 3x3 con ocho fichas numeradas y un espacio vacío. Las fichas se mueven deslizando hacia la celda vacía. El objetivo es pasar de un estado inicial a uno final ordenado. Gran espacio de estados, necesidad de heurísticas (distancia Manhattan, número de fichas fuera de lugar). Algoritmo a aplicar: BFS, DFS, costo uniforme, A*.
